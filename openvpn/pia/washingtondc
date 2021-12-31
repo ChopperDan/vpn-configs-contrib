@@ -12,7 +12,7 @@ tls-client
 remote-cert-tls server
 
 auth-user-pass
-compress
+comp-lzo yes
 verb 1
 reneg-sec 0
 <crl-verify>
